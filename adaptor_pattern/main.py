@@ -1,6 +1,6 @@
 class Target:
     """
-
+    Target class
     """
 
     def request(self):
@@ -9,7 +9,7 @@ class Target:
 
 class Adaptee:
     """
-
+    Adaptee class
     """
 
     def specific_request(self):
@@ -20,6 +20,7 @@ class Adapter(Target, Adaptee):
     """
 
     """
+
     def request(self):
         return f"Adapter: (Translated) {self.specific_request()}"
 
