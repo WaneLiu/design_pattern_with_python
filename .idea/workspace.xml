@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40bccf1e-3009-4a1e-9567-a3c70207c8ca" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/bridge_pattern/test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bridge_pattern/test.py" afterPath="$PROJECT_DIR$/bridge_pattern/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
